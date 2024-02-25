@@ -34,7 +34,7 @@ function App() {
     <>
       <div className="App">
         <header className="App-header">
-          <h2 id="header">ŽENIM SE</h2>
+          <h2 id="header">Pimpek SE</h2>
           <div className="player-container">
             <YouTube
               videoId={isOver ? "aqAlmzyzURQ" : "eQomPob3uqY"}
