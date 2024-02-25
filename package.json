@@ -2,7 +2,7 @@
   "name": "svadba-pozivnica",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TommyVidra.github.io/Mery-TommyVidra",
+  "homepage": "https://tommyvidra.github.io/Mery-TommyVidra",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
