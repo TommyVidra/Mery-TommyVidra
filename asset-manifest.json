@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mery-TommyVidra/static/css/main.bbc9f7c2.css",
+    "main.css": "/Mery-TommyVidra/static/css/main.04579635.css",
     "main.js": "/Mery-TommyVidra/static/js/main.bd817f50.js",
     "static/js/787.bc2101ef.chunk.js": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.6.3": "/Mery-TommyVidra/static/media/fontawesome-webfont.ed6298903ae1554c7f3e.svg",
@@ -10,12 +10,12 @@
     "static/media/fontawesome-webfont.woff2?v=4.6.3": "/Mery-TommyVidra/static/media/fontawesome-webfont.0317d582b93c20f68e05.woff2",
     "static/media/logo.svg": "/Mery-TommyVidra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Mery-TommyVidra/index.html",
-    "main.bbc9f7c2.css.map": "/Mery-TommyVidra/static/css/main.bbc9f7c2.css.map",
+    "main.04579635.css.map": "/Mery-TommyVidra/static/css/main.04579635.css.map",
     "main.bd817f50.js.map": "/Mery-TommyVidra/static/js/main.bd817f50.js.map",
     "787.bc2101ef.chunk.js.map": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbc9f7c2.css",
+    "static/css/main.04579635.css",
     "static/js/main.bd817f50.js"
   ]
 }
