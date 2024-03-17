@@ -1,21 +1,16 @@
 {
   "files": {
-    "main.css": "/Mery-TommyVidra/static/css/main.9c6e1743.css",
+    "main.css": "/Mery-TommyVidra/static/css/main.622494b3.css",
     "main.js": "/Mery-TommyVidra/static/js/main.5590f3a2.js",
     "static/js/787.bc2101ef.chunk.js": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.6.3": "/Mery-TommyVidra/static/media/fontawesome-webfont.ed6298903ae1554c7f3e.svg",
-    "static/media/fontawesome-webfont.ttf?v=4.6.3": "/Mery-TommyVidra/static/media/fontawesome-webfont.f0af1680f082547a7aae.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.6.3": "/Mery-TommyVidra/static/media/fontawesome-webfont.f7f1738ca345185e0185.woff",
-    "static/media/fontawesome-webfont.eot": "/Mery-TommyVidra/static/media/fontawesome-webfont.09b9015b1ecaf95655b1.eot",
-    "static/media/fontawesome-webfont.woff2?v=4.6.3": "/Mery-TommyVidra/static/media/fontawesome-webfont.0317d582b93c20f68e05.woff2",
     "static/media/logo.svg": "/Mery-TommyVidra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Mery-TommyVidra/index.html",
-    "main.9c6e1743.css.map": "/Mery-TommyVidra/static/css/main.9c6e1743.css.map",
+    "main.622494b3.css.map": "/Mery-TommyVidra/static/css/main.622494b3.css.map",
     "main.5590f3a2.js.map": "/Mery-TommyVidra/static/js/main.5590f3a2.js.map",
     "787.bc2101ef.chunk.js.map": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c6e1743.css",
+    "static/css/main.622494b3.css",
     "static/js/main.5590f3a2.js"
   ]
 }
