@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mery-TommyVidra/static/css/main.20c23aeb.css",
+    "main.css": "/Mery-TommyVidra/static/css/main.411d4791.css",
     "main.js": "/Mery-TommyVidra/static/js/main.f7be8a92.js",
     "static/js/787.bc2101ef.chunk.js": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js",
+    "static/media/crkva.jpeg": "/Mery-TommyVidra/static/media/crkva.3260f43c5fcdc3a27ca2.jpeg",
     "static/media/goranex.jpeg": "/Mery-TommyVidra/static/media/goranex.70219ef6c71a90d4803e.jpeg",
     "static/media/tomislav.jpeg": "/Mery-TommyVidra/static/media/tomislav.dd4730115c53bd23caf5.jpeg",
     "static/media/spoon.jpeg": "/Mery-TommyVidra/static/media/spoon.e1796dc3a59d865d7268.jpeg",
-    "static/media/crkva.jpeg": "/Mery-TommyVidra/static/media/crkva.8c1b04f83714bf1b9979.jpeg",
     "static/media/logo.svg": "/Mery-TommyVidra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Mery-TommyVidra/index.html",
-    "main.20c23aeb.css.map": "/Mery-TommyVidra/static/css/main.20c23aeb.css.map",
+    "main.411d4791.css.map": "/Mery-TommyVidra/static/css/main.411d4791.css.map",
     "main.f7be8a92.js.map": "/Mery-TommyVidra/static/js/main.f7be8a92.js.map",
     "787.bc2101ef.chunk.js.map": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20c23aeb.css",
+    "static/css/main.411d4791.css",
     "static/js/main.f7be8a92.js"
   ]
 }
