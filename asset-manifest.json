@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Mery-TommyVidra/static/css/main.b482048b.css",
-    "main.js": "/Mery-TommyVidra/static/js/main.0172b5f3.js",
+    "main.js": "/Mery-TommyVidra/static/js/main.eceea449.js",
     "static/js/787.bc2101ef.chunk.js": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js",
     "static/media/crkva.jpeg": "/Mery-TommyVidra/static/media/crkva.3260f43c5fcdc3a27ca2.jpeg",
     "static/media/goranex.jpeg": "/Mery-TommyVidra/static/media/goranex.70219ef6c71a90d4803e.jpeg",
@@ -12,14 +12,16 @@
     "static/media/Zaruke.jpeg": "/Mery-TommyVidra/static/media/Zaruke.eb3eb8a52adc5b56b5bf.jpeg",
     "static/media/dejt.jpeg": "/Mery-TommyVidra/static/media/dejt.9e28180b6c5e02893cb6.jpeg",
     "static/media/tomi.jpeg": "/Mery-TommyVidra/static/media/tomi.ed41c765b0e10229eea6.jpeg",
+    "static/media/whatsapp_icon.png": "/Mery-TommyVidra/static/media/whatsapp_icon.ae9ecdee219045ecf021.png",
+    "static/media/facebook_icon.png": "/Mery-TommyVidra/static/media/facebook_icon.4f0a7bf2bc78e54704ea.png",
     "static/media/logo.svg": "/Mery-TommyVidra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Mery-TommyVidra/index.html",
     "main.b482048b.css.map": "/Mery-TommyVidra/static/css/main.b482048b.css.map",
-    "main.0172b5f3.js.map": "/Mery-TommyVidra/static/js/main.0172b5f3.js.map",
+    "main.eceea449.js.map": "/Mery-TommyVidra/static/js/main.eceea449.js.map",
     "787.bc2101ef.chunk.js.map": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b482048b.css",
-    "static/js/main.0172b5f3.js"
+    "static/js/main.eceea449.js"
   ]
 }
