@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mery-TommyVidra/static/css/main.1ca1a77c.css",
+    "main.css": "/Mery-TommyVidra/static/css/main.2dafd047.css",
     "main.js": "/Mery-TommyVidra/static/js/main.c094eb56.js",
     "static/js/787.bc2101ef.chunk.js": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js",
     "static/media/crkva.jpeg": "/Mery-TommyVidra/static/media/crkva.3260f43c5fcdc3a27ca2.jpeg",
@@ -14,12 +14,12 @@
     "static/media/tomi.jpeg": "/Mery-TommyVidra/static/media/tomi.02897a0d0c740d49df48.jpeg",
     "static/media/logo.svg": "/Mery-TommyVidra/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Mery-TommyVidra/index.html",
-    "main.1ca1a77c.css.map": "/Mery-TommyVidra/static/css/main.1ca1a77c.css.map",
+    "main.2dafd047.css.map": "/Mery-TommyVidra/static/css/main.2dafd047.css.map",
     "main.c094eb56.js.map": "/Mery-TommyVidra/static/js/main.c094eb56.js.map",
     "787.bc2101ef.chunk.js.map": "/Mery-TommyVidra/static/js/787.bc2101ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ca1a77c.css",
+    "static/css/main.2dafd047.css",
     "static/js/main.c094eb56.js"
   ]
 }
